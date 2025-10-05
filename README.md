@@ -42,6 +42,61 @@
 | **Data Access** | Хранимые процедуры |
 | **Version Control** | Git |
 ---
+<div align="center">
+
+## 🖼️ Скриншоты приложения
+
+### 🏠 Стартовое окно
+<img src="./Screenshots/StartPage.png" alt="Стартовое окно приложения" width="700" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br>
+<strong>🎯 Главная страница системы</strong>
+
+#
+
+### 👥 Список сотрудников
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+<div style="text-align: center;">
+<img src="./Screenshots/ListOfEmployeesPage1.png" alt="Список сотрудников - страница 1" width="700" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br>
+<small>📄 Результат без параметров</small>
+</div>
+
+<div style="text-align: center;">
+<img src="./Screenshots/ListOfEmployeesPage2.png" alt="Список сотрудников - страница 2" width="700" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br>
+<small>📄 Сортировка по позиции в компании</small>
+</div>
+
+<div style="text-align: center;">
+<img src="./Screenshots/ListOfEmployeesPage3.png" alt="Список сотрудников - страница 3" width="700" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br>
+<small>📄 Результат запроса с параметрами</small>
+</div>
+
+</div>
+
+#
+
+### 📊 Статистика найма и увольнений
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+<div style="text-align: center;">
+<img src="./Screenshots/StaticInformationPage1.png" alt="Статистика найма/увольнений - часть 1" width="700" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br>
+<small>📋 Количество и даты увольнения сотрудников с 1987 по 2025</small>
+</div>
+
+<div style="text-align: center;">
+<img src="./Screenshots/StaticInformationPage2.png" alt="Статистика найма/увольнений - часть 2" width="700" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br>
+<small>📋 Количество и даты найма сотрудников находящихся в отпуске</small>
+</div>
+</div>
+</div>
+
+---
+
 ## 📞 Контакты
 
 ### 💼 Свяжитесь со мной
