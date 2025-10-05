@@ -51,6 +51,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabalya)
 
 **📧 Email:** kabalya05@gmail.com 
-**📱 Telegram:** @Anton_Zhabotinskyi
+**📱 Telegram:** [@Anton_Zhabotinskyi](https://t.me/Anton_Zhabotinskyi)
 
 ---
